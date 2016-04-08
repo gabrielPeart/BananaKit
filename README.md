@@ -15,6 +15,6 @@ BananaKit
 - **Musa**:  Dependency, Module, Command and View management.
 - **Banana Coding**: Elements of Non-Reusable Object-Oriented Software is a software engineering book describing recurring problems to common solutions in software design.
 
-<img src="BananaCoding.png" width="180" />
+<img src="BananaCoding.png" width="180" /> &copy; Fredrik Dahlen
 
 Originally developed by [@modocache](https://twitter.com/modocache), BananaKit is also an indispensible bunch of concepts for talking about code.
