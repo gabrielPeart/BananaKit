@@ -2,7 +2,7 @@ BananaKit
 =========
 <img src="https://raw.githubusercontent.com/gabrielPeart/BananaKit/master/Bananas.png" width="120" />
 
-[![Bunch Status](https://travis-ci.org/gabrielPeart/BananaKit.svg?branch=travis)](https://travis-ci.org/gabrielPeart/BananaKit)
+[![Bunch Status](https://travis-ci.org/gabrielPeart/BananaKit.svg?branch=master)](https://travis-ci.org/gabrielPeart/BananaKit)
 
 **BananaKit** is an appealing abstraction of common patterns and tools that were extracted from some of the largest and most successful apps in the app store. Peel requests welcome.
 
