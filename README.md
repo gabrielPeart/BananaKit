@@ -3,6 +3,7 @@ BananaKit
 <img src="https://raw.githubusercontent.com/gabrielPeart/BananaKit/master/Bananas.png" width="120" />
 
 [![Bunch Status](https://travis-ci.org/gabrielPeart/BananaKit.svg?branch=master)](https://travis-ci.org/gabrielPeart/BananaKit)
+[![codebeat badge](https://codebeat.co/badges/97086f65-d448-47d0-b703-3b620779a170)](https://codebeat.co/projects/github-com-gabrielpeart-bananakit)
 
 **BananaKit** is an appealing abstraction of common patterns and tools that were extracted from some of the largest and most successful apps in the app store. Peel requests welcome.
 
